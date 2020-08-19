@@ -144,7 +144,7 @@ html, body {
 .member-box:hover{
   opacity: 100%;
   transform: scale(1.1);
-
+  font-size: 1.5rem;
 }
 .member-1{
   background-image: url('https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/team-1.jpg');
@@ -172,6 +172,8 @@ html, body {
   text-align: center;
 }
 
+
+/* FOOTER */
 .footer {
   display: flex;
   justify-content: space-around;
